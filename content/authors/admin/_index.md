@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
+bio: My research interests include distributed robotics, mobile computing and programmable BEKA WROTE THIS
   matter.
 education:
   courses:
